@@ -694,13 +694,13 @@
             "bees":37.3,
             "iso3166_2":"NE",
             "google_name":"Nebraska (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
-            "advocates":"",
-            "opponants":"",
-            "sig_deadline":""            
+            "verified":"No",
+            "signatures":"0",
+            "cat":"Medical",
+            "name":"Nebraska Medical Cannabis Constitutional Amendment",
+            "advocates":"Nebraskans for Medical Marijuana",
+            "opponants":"None yet",
+            "sig_deadline":"N/A"            
          }
       },
       {
@@ -1018,13 +1018,13 @@
             "bees":47.6,
             "iso3166_2":"NJ",
             "google_name":"New Jersey (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
-            "advocates":"",
-            "opponants":"",
-            "sig_deadline":""            
+            "verified":"Yes",
+            "signatures":"0",
+            "cat":"Recreational",
+            "name":"None yet",
+            "advocates":"No official campaign organization yet",
+            "opponants":"None yet",
+            "sig_deadline":"N/A"            
          }
       },
       {
@@ -1072,13 +1072,13 @@
             "bees":36.1,
             "iso3166_2":"SD",
             "google_name":"South Dakota (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
-            "advocates":"",
-            "opponants":"",
-            "sig_deadline":""            
+            "verified":"Yes",
+            "signatures":"0",
+            "cat":"Medical",
+            "name":"IM 26",
+            "advocates":"New Approach South Dakota",
+            "opponants":"None yet",
+            "sig_deadline":"N/A"            
          }
       },
       {
@@ -1612,13 +1612,13 @@
             "bees":42.9,
             "iso3166_2":"AZ",
             "google_name":"Arizona (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
-            "advocates":"",
-            "opponants":"",
-            "sig_deadline":""            
+            "verified":"No",
+            "signatures":"0",
+            "cat":"Recreational",
+            "name":"Smart & Safe Arizona",
+            "advocates":"SmaSmart & Safe Arizonart & Safe Arizona",
+            "opponants":"None yet",
+            "sig_deadline":"N/A"            
          }
       },
       {
@@ -1774,13 +1774,13 @@
             "bees":38.7,
             "iso3166_2":"MS",
             "google_name":"Mississippi (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
-            "advocates":"",
-            "opponants":"",
-            "sig_deadline":""            
+            "verified":"Yes",
+            "signatures":"0",
+            "cat":"Medical",
+            "name":"Initiative 65 and Initiative 65A",
+            "advocates":"Mississippians for Compassionate Care",
+            "opponants":"None yet",
+            "sig_deadline":"N/A"            
          }
       },
       {
@@ -1990,13 +1990,13 @@
             "bees":33.3,
             "iso3166_2":"ID",
             "google_name":"Idaho (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
+            "verified":"No",
+            "signatures":"13452",
+            "cat":"Medical",
+            "name":"Idaho Cannabis Coalition",
             "advocates":"",
             "opponants":"",
-            "sig_deadline":""            
+            "sig_deadline":"Unclear. Recent court ruling may allow campaign to file signatures after original May 1 deadline."            
          }
       },
       {
@@ -2584,13 +2584,13 @@
             "bees":41.1,
             "iso3166_2":"MT",
             "google_name":"Montana (United States)",
-            "verified":"",
-            "signatures":"",
-            "cat":"",
-            "name":"",
-            "advocates":"",
-            "opponants":"",
-            "sig_deadline":""            
+            "verified":"No",
+            "signatures":"0",
+            "cat":"Recreational",
+            "name":"I-190 and CI-118",
+            "advocates":"New Approach Montana",
+            "opponants":"None yet",
+            "sig_deadline":"N/A"            
          }
       },
       {
